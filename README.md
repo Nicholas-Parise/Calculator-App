@@ -1,7 +1,7 @@
 <img width = "50%" src="Images/Calc-H.png">
 
 <div style = "display:flex;">
-<div width = "50%" style = "float:left;">
+<div width = "30%" style = "float:left;">
 On startup the calculator is in “<b>BAS</b>” or basic mode. Clicking on “<b>BAS</b>” will change the mode to
 “<b>ADV</b>” or advanced. This works in the opposite way as well. <br>
 Entering the sequence: on basic mode: <br>
@@ -20,6 +20,6 @@ Entering the sequence: in advanced mode <br>
 5-(6+(5) = Error (as there are too many open brackets) <br>
 </div>
 <div style = "float:left;">
-<img width = "40%" src="Images/Calc-V.png">
+<img width = "30%" src="Images/Calc-V.png">
 </div>
 </div>
