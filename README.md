@@ -1,5 +1,5 @@
 <img width = "50%" src="Images/Calc-H.png">
-<img width = "50%" src="Images/Calc-V.png">
+<img width = "20%" src="Images/Calc-V.png">
 
 On startup the calculator is in “<b>BAS</b>” or basic mode. Clicking on “<b>BAS</b>” will change the mode to
 “<b>ADV</b>” or advanced. This works in the opposite way as well. <br>
