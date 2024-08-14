@@ -19,7 +19,7 @@ Entering the sequence: in advanced mode <br>
 Entering the sequence: in advanced mode <br>
 5-(6+(5) = Error (as there are too many open brackets) <br>
 </div>
-<div>
+<div style = "float:left;">
 <img width = "20%" src="Images/Calc-V.png">
 </div>
 </div>
