@@ -1,5 +1,5 @@
-<img src="images/Calc-H">
-<img src="images/Calc-V">
+<img src="Images/Calc-H">
+<img src="Images/Calc-V">
 
 On startup the calculator is in “<b>BAS</b>” or basic mode. Clicking on “<b>BAS</b>” will change the mode to
 “<b>ADV</b>” or advanced. This works in the opposite way as well. <br>
