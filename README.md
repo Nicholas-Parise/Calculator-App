@@ -1,7 +1,7 @@
 <img width = "50%" src="Images/Calc-H.png">
 
 <div style = "display:grid;">
-<div style = "float:left; max-width:300px;">
+<div style = "float:left; max-width:200px;">
 On startup the calculator is in “<b>BAS</b>” or basic mode. Clicking on “<b>BAS</b>” will change the mode to
 “<b>ADV</b>” or advanced. This works in the opposite way as well. <br>
 Entering the sequence: on basic mode: <br>
